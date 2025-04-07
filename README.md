@@ -1,3 +1,8 @@
+
+## Illustrate
+1. Fix some compilation errors of source library in ubuntu20.04
+2. original github: https://github.com/OpenCalib/CalibAnything.git
+
 ## CalibAnything
 
 This package provides an automatic and target-less LiDAR-camera extrinsic calibration method using Segment Anything Model. The related paper is [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything](https://arxiv.org/abs/2306.02656). For more calibration codes, please refer to the link <a href="https://github.com/PJLab-ADG/SensorsCalibration" title="SensorsCalibration">SensorsCalibration</a>.
